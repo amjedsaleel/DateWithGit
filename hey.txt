@@ -15,4 +15,8 @@ clone
 cc
 
 c
-dd:wqc
+dd:w
+
+
+
+qc
