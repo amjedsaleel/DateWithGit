@@ -9,3 +9,4 @@ new 2
 ne
 
 w
+text 
