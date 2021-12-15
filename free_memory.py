@@ -3,6 +3,10 @@ def main():
     print('Hello main function')
 
 
+def hai():
+    print('Hai function')
+
+
 def hello():
     print('hello')
 
