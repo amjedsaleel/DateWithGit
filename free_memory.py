@@ -3,5 +3,9 @@ def main():
     print('Hello main function')
 
 
+def hello():
+    print('hello')
+
 main()
+hello()
 
