@@ -6,6 +6,8 @@ def main():
 def hai():
     print('Hai function')
 
+def hello():
+    print('hello')
 
 main()
-hai()
+
