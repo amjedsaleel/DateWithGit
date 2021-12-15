@@ -3,5 +3,9 @@ def main():
     print('Hello main function')
 
 
-main()
+def hai():
+    print('Hai function')
 
+
+main()
+hai()
