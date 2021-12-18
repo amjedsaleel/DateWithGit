@@ -37,3 +37,5 @@ x=12
 
 df
 fdsdfd
+
+text.txt
